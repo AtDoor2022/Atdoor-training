@@ -1,14 +1,21 @@
+## Day 2
 
-## Demo
+A short recall of Day 1 and React advantage and highlights.
 
-1) http://github.com - Login, Why and How to create repos, Access it in github.
+## GitHub
 
-2) Difference between loading normal HTML page and React app in browser.
+[GitHub](https://github.com) - Login, Why and How to create repos, Access it in github.
 
-3) Final compilation result in terminal with port details, how to kill react server in terminal.
+## Traditional Website vs React
 
-4) Virtual DOM, why React over Angular.
+Explanation
 
-5) File types in React app (JS, CSS, HTML).
+## Server Termination
 
-6) If time permits, Demo state with a basic example.
+Demo and Explanation
+
+## Virtual DOM
+
+Explanation
+
+## Demo (React App) and push into GitHub

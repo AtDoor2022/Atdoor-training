@@ -2,11 +2,13 @@
 
 A short recall of Day 1 and React advantage and highlights.
 
-## GitHub
-
-[GitHub](https://github.com) - Login, Why and How to create repos, Access it in github.
+## Screenshare Interns to check the task status
 
 ## Traditional Website vs React
+
+Explanation
+
+## Virtual DOM
 
 Explanation
 
@@ -14,8 +16,8 @@ Explanation
 
 Demo and Explanation
 
-## Virtual DOM
+## GitHub
 
-Explanation
+[GitHub](https://github.com) - Login, Why and How to create repos, Access it in github.
 
 ## Demo (React App) and push into GitHub

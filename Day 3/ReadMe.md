@@ -9,14 +9,16 @@ A short recall of Day 2 and JSX introduction
 Functional Component
 Class Component
 
-## Routes
-
-Explanation and demo
-
-## State
+## State - useState
 
 Explanation and demo
 
 ## Props
 
 Explanation and demo
+
+## Routes - useRoute
+
+Explanation and demo
+
+## Checkout the Readme for Day 4 and gather some knowledge on it

@@ -17,8 +17,4 @@ Explanation and demo
 
 Explanation and demo
 
-## Routes - useRoute
-
-Explanation and demo
-
 ## Checkout the Readme for Day 4 and gather some knowledge on it
